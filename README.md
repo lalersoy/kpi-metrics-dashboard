@@ -1,5 +1,3 @@
-# kpi-metrics-dashboard
-
 # E-Commerce Customer Journey & Conversion Dashboard – README
 
 This dashboard visualizes user behavior and e-commerce performance for the Google Merchandise Store (August 2016). It consists of two pages: a high-level **Executive Overview** and a detailed **Funnel Analysis**, both segmented by device (desktop, mobile, tablet). The dashboard is fully interactive with a shared device filter.
