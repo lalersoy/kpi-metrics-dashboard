@@ -1,7 +1,6 @@
 # E-Commerce Customer Journey & Conversion Dashboard – README
 
-This dashboard visualizes user behavior and e-commerce performance for the Google Merchandise Store (August 2016). It consists of two pages: a high-level **Executive Overview** and a detailed **Funnel Analysis**, both segmented by device (desktop, mobile, tablet). The dashboard is fully interactive with a shared device filter.
-The dashboard is fully interactive with a shared device filter and is powered entirely by custom SQL queries on BigQuery public datasets.
+This dashboard visualizes user behavior and e-commerce performance for the Google Merchandise Store (August 2016). It consists of two pages: a high-level **Executive Overview** and a detailed **Funnel Analysis**, both segmented by device (desktop, mobile, tablet). The dashboard is fully interactive and is powered entirely by custom SQL queries on BigQuery public datasets.
 
 🔗 **Live Dashboard**: [Customer Journey & Conversion Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/5ba94044-8343-40f2-bf4c-c7770eab143d)
 
